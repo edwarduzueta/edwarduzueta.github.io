@@ -14,9 +14,9 @@ summary: "Implemented a sorted linked list database in C, later extended into C+
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/database/database-structure.png" class="img-thumbnail" >
-  <img width="200px" src="../img/database/database-ui.png" class="img-thumbnail" >
-  <img width="200px" src="../img/database/database-code.png" class="img-thumbnail" >
+  <img src="../img/database/database-structure.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
+  <img src="../img/database/database-ui.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
+  <img src="../img/database/database-code.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
 </div>
 
 This project was a menu-driven database application first built in **C** and later extended into **C++**.  

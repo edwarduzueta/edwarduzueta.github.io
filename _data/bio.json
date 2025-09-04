@@ -15,12 +15,12 @@
     ]
  },
   "interests": [
-    { "name": "Cybersecurity" },
-    { "name": "Signals Intelligence" },
-    { "name": "Military Intelligence" },
-    { "name": "Computer Science" },
-    { "name": "Leadership Development" }
-  ],
+  { "name": "Cybersecurity & Network Defense" },
+  { "name": "Signals Intelligence (SIGINT) Analysis" },
+  { "name": "Military Intelligence & Operations" },
+  { "name": "Computer Science & Emerging Technologies" },
+  { "name": "Leadership Growth & Professional Development" }
+ ],
   "skills": [
    {
       "name": "Languages and Frameworks",

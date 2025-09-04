@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/database.png
 title: "Database Application"
-date: 2024-12-01\
+date: 2024-12-01
 published: true
 labels:
   - C

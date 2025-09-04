@@ -13,10 +13,10 @@ labels:
 summary: "Implemented a sorted linked list database in C, later extended into C++ with classes and file persistence."
 ---
 
-<div class="text-center p-4">
-  <img src="../img/database/database-structure.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
-  <img src="../img/database/database-ui.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
-  <img src="../img/database/database-code.png" class="img-thumbnail" style="max-width:200px; height:auto; display:inline-block; margin:10px;">
+<div class="text-center p-4" style="max-width:650px; margin:auto;">
+  <img src="../img/database/database-structure.png" class="img-thumbnail" style="width:200px; height:auto; margin:10px;">
+  <img src="../img/database/database-ui.png" class="img-thumbnail" style="width:200px; height:auto; margin:10px;">
+  <img src="../img/database/database-code.png" class="img-thumbnail" style="width:200px; height:auto; margin:10px;">
 </div>
 
 This project was a menu-driven database application first built in **C** and later extended into **C++**.  

@@ -9,20 +9,20 @@
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Fall 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "", "url": "http://github.com/naimadUzi" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://www.linkedin.com/in/edwarduzueta" },
-      { "network": "instagram", "username": "molly", "url": "http://www.instagram.com/naimad_uzueta" }
+      { "network": "github", "username": "naimadUzi", "url": "http://github.com/naimadUzi" },
+      { "network": "linkedin", "username": "edwarduzueta", "url": "http://www.linkedin.com/in/edwarduzueta" },
+      { "network": "instagram", "username": "naimad_uzueta", "url": "http://www.instagram.com/naimad_uzueta" }
     ]
- },
+  },
   "interests": [
-  { "name": "Cybersecurity & Network Defense" },
-  { "name": "Signals Intelligence (SIGINT) Analysis" },
-  { "name": "Military Intelligence & Operations" },
-  { "name": "Computer Science & Emerging Technologies" },
-  { "name": "Leadership Growth & Professional Development" }
- ],
+    { "name": "Cybersecurity & Network Defense" },
+    { "name": "Signals Intelligence (SIGINT) Analysis" },
+    { "name": "Military Intelligence & Operations" },
+    { "name": "Computer Science & Emerging Technologies" },
+    { "name": "Leadership Growth & Professional Development" }
+  ],
   "skills": [
-   {
+    {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java" ]
     },
@@ -32,7 +32,7 @@
     }
   ],
   "education": [
-   {
+    {
       "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
       "area": "Information and Computer Science",
       "studyType": "B.A.",
@@ -102,7 +102,7 @@
     }
   ],
   "awards": [
-   {
+    {
       "title": "ROTC Cadet of the Month",
       "date": "2024",
       "awarder": "University of Hawai‘i at Mānoa ROTC",

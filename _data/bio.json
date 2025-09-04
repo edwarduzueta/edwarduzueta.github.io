@@ -1,113 +1,124 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Edward Uzueta",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/naimadUzi.png",
+    "email": "uzueta@hawaii.edu",
+    "phone": "808-277-0298",
+    "website": "https://naimadUzi.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Fall 2027.",
+    "location": { "address": 5661 Dovekie Ave, Apt A "", "postalCode": "96707", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "", "url": "http://github.com/naimadUzi" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://www.linkedin.com/in/edwarduzueta" },
+      { "network": "instagram", "username": "molly", "url": "http://www.instagram.com/naimad_uzueta" }
     ]
-  },
+ },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cybersecurity" },
+    { "name": "Signals Intelligence" },
+    { "name": "Military Intelligence" },
+    { "name": "Computer Science" },
+    { "name": "Leadership Development" }
   ],
   "skills": [
-    {
+   {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Linux", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+   {
+      "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
+      "area": "Information and Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2024-01-08",
       "endDate": "Present",
       "courses": [
+        "Data Structures",
+        "Software Engineering",
+        "Computer Systems",
+        "Programming Languages"
+      ]
+    },
+    {
+      "institution": "James Campbell High School, Ewa Beach, HI",
+      "area": "General Studies",
+      "studyType": "High School Diploma",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05-31",
+      "courses": [
+        "AP Environmental Science",
+        "AP Language & Composition",
+        "AP World History"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaii Army National Guard",
+      "position": "Signals Intelligence Analyst (35N)",
+      "website": "https://www.goarmy.com/careers-and-jobs/signal-intelligence/languages-code/35n-signals-intelligence-analyst",
+      "startDate": "2023-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Conduct real-time SIGINT collection, analysis, and reporting to support tactical and strategic missions.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Operated and maintained surveillance and electronic warfare equipment",
+        "Performed signal collection and pattern analysis",
+        "Produced intelligence reports for command decision-making"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Walmart",
+      "position": "Personal Shopper / Customer Service Associate",
+      "website": "https://www.walmart.com",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Fulfilled online orders and provided customer support in a fast-paced retail environment.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Delivered timely and accurate fulfillment of online orders",
+        "Assisted customers with product selection and issue resolution",
+        "Supported stock replenishment and curbside pickup operations"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "JROTC Leadership & Community Service",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Cadet Leader",
+      "startDate": "2019-08-01",
+      "endDate": "2021-05-31",
+      "summary": "Led community service and school events through JROTC program.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed snack shack operations during football games",
+        "Directed traffic and logistics at events",
+        "Led appreciation campaigns and fundraisers"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+   {
+      "title": "ROTC Cadet of the Month",
+      "date": "2024",
+      "awarder": "University of Hawai‘i at Mānoa ROTC",
+      "summary": "Recognized for outstanding leadership and performance as an ROTC cadet."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Outstanding Performance Award",
+      "date": "2024",
+      "awarder": "ROTC Field Training Exercise",
+      "summary": "Awarded for exceptional performance in field training operations."
+    },
+    {
+      "title": "Certificate of Achievement",
+      "date": "2023",
+      "awarder": "U.S. Army Basic Combat Training",
+      "summary": "Commended for leadership and resilience during training."
     }
   ],
   "references": [

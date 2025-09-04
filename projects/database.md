@@ -1,10 +1,9 @@
 ---
 layout: project
 type: project
-image: img/database/database-square.jpg
+image: 
 title: "Database Application"
-date: 2024
-published: true
+date: 2024-12-01
 labels:
   - C
   - C++

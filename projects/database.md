@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/database.png
 title: "Database Application"
 date: 2024-12-01\
 published: true

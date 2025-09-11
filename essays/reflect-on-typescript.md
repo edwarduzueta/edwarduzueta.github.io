@@ -16,6 +16,10 @@ labels:
 
 Coming into Typescript, I felt both curious and cautious. My background so far has been in languages like C, C++, and Java, so I’m used to structure and strong typing. JavaScript was always a bit of a wild card — flexible, yes, but sometimes too forgiving. Typescript bridges that gap. It brings the discipline of typed languages into the world of JavaScript, and that clicked with me right away. It feels like I can code with the speed of JavaScript but still have guardrails that prevent small mistakes from turning into big problems.  
 
+<div class="text-center p-3">
+  <img src="../img/typescript-logo.png" alt="TypeScript Logo" width="250px" class="img-thumbnail">
+</div>
+
 ## How It Compares  
 
 Compared to my other programming experiences, Typescript feels like a middle ground. C and C++ demand strict rules and punish mistakes harshly. Java is more forgiving but still very structured. JavaScript, on the other hand, sometimes felt too loose. Typescript gives me that balance — I can experiment like in JavaScript, but the compiler helps me catch errors before I waste time debugging. Learning it made me realize how much I value that extra layer of reliability.  

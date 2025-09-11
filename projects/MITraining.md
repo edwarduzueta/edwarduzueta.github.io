@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bct/BCT.png
+image: img/BCT.png
 title: "Basic Combat Training and Advanced Individual Training"
 date: 2023
 published: true

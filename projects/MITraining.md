@@ -14,7 +14,6 @@ summary: "Completed U.S. Army Basic Combat Training at Fort Leonard Wood and Adv
 
 <div class="text-center p-4">
   <img width="200px" src="../img/BCT1.png" class="img-thumbnail" >
-   <img width="200px" src="../img/bct.png" class="img-thumbnail" >
 </div>
 
 In **February 2023**, I graduated from **Basic Combat Training (BCT)** at Fort Leonard Wood, Missouri.  

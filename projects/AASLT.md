@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/airassault-square.jpg
+image: img/AASLT2.png
 title: "Air Assault School"
 date: 2024
 published: true
@@ -13,9 +13,7 @@ summary: "Graduated from the U.S. Army Air Assault School, mastering helicopter 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/projects/airassault-helicopter.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/projects/airassault-slingload.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/projects/airassault-graduation.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/AASLT.png" class="img-thumbnail" >
 </div>
 
 In **2024**, I successfully completed the **U.S. Army Air Assault School**, one of the Army’s most demanding and prestigious qualification courses. Known as the “10 hardest days in the Army,” Air Assault School pushed me to my physical and mental limits.  

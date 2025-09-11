@@ -13,10 +13,13 @@ labels:
 summary: "Implemented a sorted linked list database in C, later extended into C++ with classes and file persistence."
 ---
 
-
 This project was a menu-driven database application first built in **C** and later extended into **C++**.  
 It used a **sorted linked list** to store account records, keeping them in ascending order by account number.  
 The program supported adding, finding, deleting, and printing records, while also saving and loading records to a file.  
+
+<div class="text-center p-3">
+  <img src="../img/databas.png" alt="Database Screenshot" width="400px" class="img-thumbnail">
+</div>
 
 For the C version, I implemented functions such as `addRecord`, `printAllRecords`, `findRecord`, and `deleteRecord`.  
 The C++ version encapsulated this logic inside a custom `llist` class, adding object-oriented structure to the program.  

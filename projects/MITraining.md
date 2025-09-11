@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bct.png
+image: img/MI.png
 title: "Basic Combat Training and Advanced Individual Training"
 date: 2023
 published: true
@@ -14,6 +14,7 @@ summary: "Completed U.S. Army Basic Combat Training at Fort Leonard Wood and Adv
 
 <div class="text-center p-4">
   <img width="200px" src="../img/BCT1.png" class="img-thumbnail" >
+   <img width="200px" src="../img/bct.png" class="img-thumbnail" >
 </div>
 
 In **February 2023**, I graduated from **Basic Combat Training (BCT)** at Fort Leonard Wood, Missouri.  

@@ -17,7 +17,7 @@ labels:
 Coming into Typescript, I felt both curious and cautious. My background so far has been in languages like C, C++, and Java, so I’m used to structure and strong typing. JavaScript was always a bit of a wild card — flexible, yes, but sometimes too forgiving. Typescript bridges that gap. It brings the discipline of typed languages into the world of JavaScript, and that clicked with me right away. It feels like I can code with the speed of JavaScript but still have guardrails that prevent small mistakes from turning into big problems.  
 
 <div class="text-center p-3">
-  <img src="../img/typescript-logo.png" alt="TypeScript Logo" width="250px" class="img-thumbnail">
+  <img src="../img/typescript.png" alt="TypeScript Screenshot" width="250px" class="img-thumbnail">
 </div>
 
 ## How It Compares  

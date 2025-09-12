@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Learning Typescript and Learning Discipline"
-# All dates must be YYYY-MM-DD format!
 date: 2025-09-04
 published: true
 labels:
@@ -10,24 +9,29 @@ labels:
   - Software Engineering
   - ICS 314
 ---
-*Typescript: a superset of JavaScript designed to make coding safer, more structured, and easier to maintain.*
 
-## First Impressions  
+Typescript is a superset of JavaScript designed to make coding safer, more structured, and easier to maintain.
 
-Coming into Typescript, I felt both curious and cautious. My background so far has been in languages like C, C++, and Java, so I’m used to structure and strong typing. JavaScript was always a bit of a wild card — flexible, yes, but sometimes too forgiving. Typescript bridges that gap. It brings the discipline of typed languages into the world of JavaScript, and that clicked with me right away. It feels like I can code with the speed of JavaScript but still have guardrails that prevent small mistakes from turning into big problems.  
+## First Impressions
+
+When I first started learning Typescript, I wasn’t sure what to expect. My background has mainly been in languages like C, C++, and Java, so I am used to stricter rules and stronger typing. JavaScript always felt loose to me. It works fast, but sometimes it feels like you’re walking on thin ice where one small mistake can break everything. Typescript was different. It felt like I could move with the same speed as JavaScript, but now I had guardrails that caught mistakes early. That gave me confidence, especially since I prefer having structure when I’m learning something new.  
 
 <div class="text-center p-3">
   <img src="../img/typescript.png" alt="TypeScript Screenshot" width="250px" class="img-thumbnail">
 </div>
 
-## How It Compares  
+## How It Compares
 
-Compared to my other programming experiences, Typescript feels like a middle ground. C and C++ demand strict rules and punish mistakes harshly. Java is more forgiving but still very structured. JavaScript, on the other hand, sometimes felt too loose. Typescript gives me that balance — I can experiment like in JavaScript, but the compiler helps me catch errors before I waste time debugging. Learning it made me realize how much I value that extra layer of reliability.  
+Compared to the other languages I have worked with, Typescript feels like a middle ground. C and C++ are strict and unforgiving. If you mess up, the program crashes hard. Java is more balanced but still rigid. JavaScript is on the opposite end: flexible, but sometimes too forgiving, which led to me spending more time debugging than actually building. Typescript gave me the best of both sides. I could still build quickly, but I wasn’t left guessing whether the compiler would let a mistake slip through. Learning it made me realize how much I value that extra layer of reliability and clarity.  
 
-## Athletic Software Engineering  
+## Athletic Software Engineering
 
-The practice WODs (Workouts of the Day) were a whole different challenge. At first, the time pressure was stressful. I’m the type who likes to slow down, double-check, and think through every detail. The WODs forced me to move faster and trust my instincts, which honestly pushed me out of my comfort zone. But after a while, I started to see the value. It’s like PT in the Army — the repetition and pressure build discipline, not just skill. I think this style of learning will help me become more efficient and confident in my coding, even if it’s uncomfortable at times.  
+The practice WODs, or Workouts of the Day, were another challenge altogether. I am the kind of person who likes to slow down, check every line, and make sure everything is right. The WODs flipped that on its head. They put me under pressure, forced me to move faster, and made me trust my instincts. At first, it was stressful, but over time I started to see it like Army PT. In the military, you don’t grow by taking it easy. You grow by being pushed past your comfort zone. That is what these WODs felt like: repetition, pressure, and discipline. They trained me to perform under stress, not just when everything is calm.  
 
-## Final Thoughts  
+## Final Thoughts
 
-Typescript has already earned my respect. It’s not just another tool to learn for class — it feels like a language that will actually make me a stronger programmer, especially as I move toward fields like cybersecurity and intelligence, where precision matters. Pairing Typescript with the athletic software engineering approach reminds me that growth often comes through challenge. Just like in the military, the training is tough for a reason. If I keep leaning into the difficulty, I know I’ll come out sharper on the other side.  
+Learning Typescript has been more than just learning another programming language. It reminded me that structure and discipline matter, both in code and in life. As I work toward fields like cybersecurity and intelligence, I know precision will matter more than ever. Typescript gives me that precision without slowing me down. Combined with the athletic software engineering style of training, it is teaching me how to stay sharp, adapt under pressure, and grow through challenge. Just like in the Army, the training is not meant to be comfortable. It is meant to make you better. And that is exactly what I have taken away from this experience.  
+
+---
+
+Note: I used ChatGPT to help refine grammar and structure for this essay, but the ideas and final content reflect my own experiences and perspective.

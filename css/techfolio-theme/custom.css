@@ -1,0 +1,17 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #64b5f6;
+}
+
+.navbar {
+  background-color: #1f1f1f !important;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+}

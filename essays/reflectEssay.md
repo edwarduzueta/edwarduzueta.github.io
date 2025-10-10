@@ -25,8 +25,6 @@ The biggest advantage of UI frameworks is consistency. Everything you build foll
 
 When I first started using Bootstrap 5, I spent more time reading documentation than actually coding. It was confusing at first, but once I understood how the grid system and utility classes worked, everything clicked. I built a small test page to compare it with my older projects that used only raw HTML and CSS. The Bootstrap version looked cleaner and adjusted perfectly when I resized the window. What impressed me most was how little custom CSS I had to write.  
 
-![Bootstrap 5 webpage example](../images/bootstrap-example.png)
-
 That experience made me realize that UI frameworks aren’t just shortcuts. They’re tools that help developers build faster and smarter. The more I used Bootstrap, the more I saw how it encourages better design thinking.
 
 ### Final Thoughts

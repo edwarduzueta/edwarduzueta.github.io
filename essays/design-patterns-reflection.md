@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Design Patterns: The Invisible Training That Makes Us Better Developers"
-date: 2025-11-15
+date: 2025-12-04
 published: true
 labels:
   - Design Patterns

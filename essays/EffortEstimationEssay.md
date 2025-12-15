@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Effort Estimation and Tracking Reflection"
-date: 2025-12-10
+date: 2025-12-14
 published: true
 labels:
   - Software Engineering

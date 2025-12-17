@@ -22,72 +22,59 @@ Below, I describe how I used AI across different parts of ICS 314, including whe
 
 ### 1. Experience WODs (TypeScript, Coding Standards, UI Design, Next.js)
 
-I used AI during many of the Experience WODs, especially when working with TypeScript, coding standards, and later UI and Next.js WODs. These WODs often involved strict requirements and detailed error messages, and getting stuck early could make it difficult to finish on time.
-
-For example, when TypeScript complained about type mismatches or ESLint flagged multiple violations at once, AI helped explain what each error meant and why it existed. This made it easier to decide what to fix first instead of guessing. I still had to apply the fixes myself and make sure they matched the WOD requirements.
-
-Benefit: Faster understanding of errors and clearer direction  
-Cost: Risk of leaning on AI too quickly instead of reasoning through simpler issues
+I used AI during many of the Experience WODs, especially for TypeScript, coding standards, UI design, and Next.js. These WODs were often strict and time-boxed, and getting stuck early could make it difficult to finish. AI helped when I ran into confusing compiler errors or linting issues that were not obvious from the error message alone. By explaining what the error meant and why it existed, AI helped me decide what to fix first instead of guessing randomly. However, I still had to apply the fixes myself and ensure they followed the WOD constraints.
 
 ### 2. In-class Practice WODs
 
-For in-class practice WODs, I often used AI after finishing to understand mistakes or improve my approach. This was especially helpful for coding standards and UI-related practice, where small details like structure and consistency mattered more than expected.
-
-AI helped explain why certain patterns were discouraged and why a specific structure was preferred. This turned practice WODs into learning opportunities rather than just exercises to complete.
+For in-class practice WODs, I mostly used AI after completing the task. These WODs were meant for learning rather than performance, so reviewing mistakes mattered more than speed. AI helped me understand why certain solutions were discouraged and how small changes could improve readability or structure. This was especially useful for coding standards and UI-related practice, where consistency mattered more than functionality alone. Using AI this way made practice WODs more valuable as learning tools.
 
 ### 3. In-class WODs
 
-I used AI much less during in-class WODs. Because of the pace and time pressure, it was usually more effective to rely on my own preparation and understanding. In those situations, stopping to consult AI often took more time than it saved and sometimes broke my focus.
+I used AI much less during in-class WODs because of the pace and pressure. These felt more like checks on preparation and problem-solving ability, and stopping to consult AI often slowed me down. In most cases, rereading the instructions carefully or relying on muscle memory from practice was more effective. Avoiding AI here helped me build confidence in my own ability to perform under time constraints.
 
 ### 4. Essays
 
-For essays, I used AI mainly for outlining and grammar cleanup. I wrote the content myself and then used AI to improve organization, clarity, and formatting for my GitHub portfolio.
-
-This helped me focus more on reflecting on the course instead of spending unnecessary time fixing wording or structure.
+When working on essays, I used AI mainly for outlining and grammar cleanup. I always wrote the ideas and reflections myself, then used AI to improve organization, clarity, and formatting for my GitHub portfolio. This helped me focus on content instead of getting stuck rewriting sentences or fixing structure. AI made the writing process smoother without changing the meaning of what I wanted to say.
 
 ### 5. Final Project
 
-During the final project, AI was most useful for debugging. When I ran into errors that were difficult to interpret, AI helped explain what the error messages meant and suggested areas to check.
-
-AI did not design or build the project for me, but it helped reduce the time I spent stuck on technical issues, allowing me to focus on improving functionality and structure.
+During the final project, AI was most useful for debugging and understanding error messages. When something broke and the error output was unclear, AI helped explain what the message meant and what parts of the code or configuration were worth checking. AI did not design or build the project for me, but it reduced the time I spent stuck, which allowed me to focus on improving functionality and structure instead of fighting errors.
 
 ### 6. Learning a Concept or Tutorial
 
-AI was helpful for learning concepts related to ESLint rules and coding standards. When I did not understand why something was flagged as a problem, AI explained the reasoning behind the rule in simpler terms.
-
-This helped me apply standards more consistently instead of just fixing warnings without understanding them.
+AI helped me learn concepts related to ESLint rules and coding standards more effectively. When I did not understand why a rule existed or why something was considered bad practice, AI explained the reasoning in simpler terms. This helped me apply standards more consistently instead of just fixing warnings without understanding them. Over time, this improved my overall code quality.
 
 ### 7. Answering a Question in Class or Discord
 
-Sometimes I used AI privately to double-check my understanding before answering questions in class or on Discord. This helped me avoid sharing incorrect information and gave me more confidence when participating in discussions.
+Sometimes I used AI privately to double-check my understanding before answering questions in class or on Discord. This helped me avoid spreading incorrect information and made me more confident when participating. AI acted as a quick verification tool, especially when I understood the idea but was unsure about details.
 
 ### 8. Asking or Answering a Smart Question
 
-AI helped me rephrase vague questions into clearer ones by adding context about what I tried and what went wrong. This usually led to more useful responses and made collaboration easier.
+AI helped me turn vague confusion into clearer questions. By rephrasing what I was stuck on and adding context about what I had already tried, I was able to ask better questions. This usually resulted in faster and more helpful responses from classmates or instructors. Over time, this also helped me improve how I communicate technical problems on my own.
 
 ### 9. Coding Examples
 
-When I needed a quick reminder of syntax or structure, I sometimes used AI for small examples. I treated these as references rather than solutions and adapted them to fit my own code and the course requirements.
+When I needed a quick reminder of syntax or structure, I sometimes used AI for small coding examples. These examples helped refresh my memory without forcing me to dig through documentation for simple cases. I treated them as references rather than solutions and adapted them to fit my own code and the course requirements.
 
 ### 10. Explaining Code
 
-AI was useful for explaining code, especially when revisiting older files or unfamiliar patterns. Having a step-by-step explanation helped reinforce my understanding of how the code worked.
+AI was useful for explaining code, especially when revisiting older files or unfamiliar patterns. Having a step-by-step explanation helped me understand what the code was doing and why it behaved a certain way. This made it easier to modify or extend the code later without breaking it.
 
 ### 11. Writing Code
 
-I avoided directly copying large chunks of AI-generated code. When I did look at examples, I rewrote them myself to make sure I understood how they worked and how they fit into my project.
+I avoided directly copying large chunks of AI-generated code. When I did look at examples, I rewrote them myself to make sure I understood how they worked and how they fit into my project. This approach helped prevent AI from becoming a crutch while still allowing me to learn from examples.
 
 ### 12. Documenting Code
 
-AI helped improve my documentation by suggesting clearer descriptions for functions and components. This made my code easier to understand without changing its behavior or logic.
+AI helped improve my documentation by suggesting clearer descriptions for functions and components. This made my code easier to understand for others and for my future self. I still verified that the documentation accurately reflected the behavior of the code, since documentation is only useful if it is correct.
 
 ### 13. Quality Assurance
 
-One of the most useful applications of AI in ICS 314 was quality assurance. AI helped explain ESLint warnings and suggest fixes, which helped me recognize common mistakes and gradually improve my code quality.
+One of the most useful applications of AI in ICS 314 was quality assurance. AI helped explain ESLint warnings and suggest fixes, which made it easier to recognize recurring mistakes. Over time, this improved my ability to write cleaner code without relying as heavily on linting feedback.
 
 ### 14. Other Uses in ICS 314
 
-AI also helped with planning by breaking larger tasks into smaller steps. This made assignments feel more manageable and helped me stay organized throughout the semester.
+AI also helped with planning by breaking larger assignments into smaller steps. This made projects feel more manageable and reduced the feeling of being overwhelmed. Using AI for planning helped me stay organized and approach assignments more systematically.
 
 ## III. Impact on Learning and Understanding
 

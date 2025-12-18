@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/AASLT2.png
 title: "Air Assault School"
-date: 2024
+date: 2024-01-21
 published: true
 labels:
   - Military

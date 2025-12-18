@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/MI.png
 title: "Basic Combat Training and Advanced Individual Training"
-date: 2023
+date: 2023-09-07
 published: true
 labels:
   - Military

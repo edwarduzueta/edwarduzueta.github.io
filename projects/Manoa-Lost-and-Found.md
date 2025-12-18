@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Hawaii_Warriors_logo.svg.png
 title: "Manoa Lost & Found"
-date: 2025
+date: 2025-12-17
 published: true
 labels:
   - Web Application
